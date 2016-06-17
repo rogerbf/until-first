@@ -1,7 +1,7 @@
 {
   "name": "until-first",
-  "version": "1.0.0",
-  "description": "Extract part of string up until and including first occurrence of substring",
+  "version": "1.1.0",
+  "description": "Extract part of string including first occurrence of substring",
   "main": "./src/index.js",
   "eslintConfig": {
     "env": {
